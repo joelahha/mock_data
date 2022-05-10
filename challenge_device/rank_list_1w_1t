@@ -1,5 +1,5 @@
 {
-"totalDocs": 12,
+"totalDocs": 10,
 "currentPage": 0,
 "pageSize": 0,
 "totalPage": 0,
@@ -100,26 +100,6 @@
 "profileTuhmbnail": "",
 "rank": 10,
 "point": 7554,
-"distance": 0,
-"duration": 0,
-"count": 0
-},
-{
-"id": "219979231",
-"profileImage": "",
-"profileTuhmbnail": "",
-"rank": 11,
-"point": 5550,
-"distance": 0,
-"duration": 0,
-"count": 0
-},
-{
-"id": "119969288",
-"profileImage": "",
-"profileTuhmbnail": "",
-"rank": 12,
-"point": 4075,
 "distance": 0,
 "duration": 0,
 "count": 0

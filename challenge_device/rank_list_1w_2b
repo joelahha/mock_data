@@ -1,5 +1,5 @@
 {
-"totalDocs": 8,
+"totalDocs": 6,
 "currentPage": 0,
 "pageSize": 0,
 "totalPage": 0,
@@ -63,27 +63,7 @@
 "distance": 0,
 "duration": 0,
 "count": 0
-},
-{
-"id": "6789909111",
-"profileImage": "",
-"profileTuhmbnail": "",
-"rank": 7,
-"point": 5602,
-"distance": 0,
-"duration": 0,
-"count": 0
-},
-{
-"id": "789909333",
-"profileImage": "",
-"profileTuhmbnail": "",
-"rank": 8,
-"point": 4820,
-"distance": 0,
-"duration": 0,
-"count": 0
-},
+}
 
 ]
 }
