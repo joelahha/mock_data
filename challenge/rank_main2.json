@@ -1,0 +1,20 @@
+{
+  "myRank": {
+    "point": 2890,
+    "distance": 2990,
+    "duration": 2678,
+    "count": 278,
+    "rank": 200
+  },
+  "leaders": [
+    {
+      "point": 29400,
+      "distance": 5002,
+      "duration": 9001,
+      "count": 622,
+      "id": "1222233x",
+      "rank": 21
+    }
+  ],
+  "percent": 3
+}
