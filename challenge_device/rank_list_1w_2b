@@ -1,0 +1,89 @@
+{
+"totalDocs": 8,
+"currentPage": 0,
+"pageSize": 0,
+"totalPage": 0,
+"docs": [
+{
+"id": "11111122222",
+"profileImage": "",
+"profileTuhmbnail": "",
+"rank": 1,
+"point": 31020,
+"distance": 0,
+"duration": 0,
+"count": 0
+},
+{
+"id": "2222333333",
+"profileImage": "",
+"profileTuhmbnail": "",
+"rank": 2,
+"point": 15600,
+"distance": 0,
+"duration": 0,
+"count": 0
+},
+{
+"id": "33333344444",
+"profileImage": "",
+"profileTuhmbnail": "",
+"rank": 3,
+"point": 12012,
+"distance": 0,
+"duration": 0,
+"count": 0
+},
+{
+"id": "444555555",
+"profileImage": "",
+"profileTuhmbnail": "",
+"rank": 4,
+"point": 9853,
+"distance": 0,
+"duration": 0,
+"count": 0
+},
+{
+"id": "554555553",
+"profileImage": "",
+"profileTuhmbnail": "",
+"rank": 5,
+"point": 7120,
+"distance": 0,
+"duration": 0,
+"count": 0
+},
+{
+"id": "555555623",
+"profileImage": "",
+"profileTuhmbnail": "",
+"rank": 6,
+"point": 6702,
+"distance": 0,
+"duration": 0,
+"count": 0
+},
+{
+"id": "6789909111",
+"profileImage": "",
+"profileTuhmbnail": "",
+"rank": 7,
+"point": 5602,
+"distance": 0,
+"duration": 0,
+"count": 0
+},
+{
+"id": "789909333",
+"profileImage": "",
+"profileTuhmbnail": "",
+"rank": 8,
+"point": 4820,
+"distance": 0,
+"duration": 0,
+"count": 0
+},
+
+]
+}
